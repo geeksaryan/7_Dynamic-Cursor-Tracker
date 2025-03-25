@@ -1,3 +1,5 @@
+# Live link: https://dynamic-cursor-tracker.vercel.app/
+
 # Dynamic Cursor Tracker
 
 Dynamic Cursor Tracker is a simple web project that demonstrates a custom cursor effect. As you move your mouse across the screen, a circular cursor dynamically follows your movements, creating an engaging visual experience.
